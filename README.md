@@ -5,4 +5,4 @@
 \
 **TrainingMetrics:** Training metrics as *.csv files and training curve image files of all of the test in the paper. (4 Different Architecture)x(2 Different Activation Function)x(4 Luminaire Types)= 32 Folders\
 \
-Other details can be found at paper titled: "Application of a Machine Learning-Based Prediction Model for the Design of General Lighting Systems in Offices"
+Other details can be found at paper titled: **"Application of a Machine Learning-Based Prediction Model for the Design of General Lighting Systems in Offices"**
