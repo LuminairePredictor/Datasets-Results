@@ -13,4 +13,4 @@ Other details can be found at paper titled: **"Application of a Machine Learning
 
 ## Dataset
 This model uses the following dataset for training and validation:
-**Dataset:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19476311.svg)](https://doi.org/10.5281/zenodo.19476311)
+**Dataset:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20730082.svg)](https://doi.org/10.5281/zenodo.20730082)
